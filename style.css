@@ -1,0 +1,25 @@
+body {
+    background: #ADD8E6;
+    text-align: center;
+  }
+
+h1 {
+    background: #0e00cf ;
+    color:white;
+}
+
+h2 {
+    background: #1E90FF ;
+    color:#ffffff;
+}
+
+#contato {
+    text-align: left;
+
+}
+
+#contatoFonte {
+    text-align: left;
+    font-size: 12px;
+}
+
