@@ -14,12 +14,12 @@ h2 {
 }
 
 #contato {
+    margin-left: 70%;
     text-align: left;
-
 }
 
 #contatoFonte {
-    margin-left: 60%;
+    margin-left: 75%;
     text-align: left;
     font-size: 12px;
 }
